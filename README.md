@@ -1,7 +1,5 @@
 # Implemnting RNN to Generate songs lyrics using Both data from MIDI and Lyrics. 
 
-In this code i implmented three diffrent CNN models that differ between human faces, giving an answer if its the same person or not.
-
 ## Data Processing:
 This work was needed two type of data proccesing:
  **lyrics**

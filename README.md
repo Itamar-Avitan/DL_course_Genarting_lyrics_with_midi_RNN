@@ -1,4 +1,4 @@
-# Implemnting Siamese Network using pytorch
+# Implemnting RNN to Generate songs lyrics using Both data from MIDI and Lyrics. 
 
 In this code i implmented three diffrent CNN models that differ between human faces, giving an answer if its the same person or not.
 
@@ -12,6 +12,7 @@ i implmented two diffrent type of feature extraction proccess. one extract eithe
 
 ## The model:
 My model include two GRU layers folowing two linear layers, the GRU layers are the RNN part of the model, meant to proccess the information, and the linear layers are for mapping the output back to the Vocubaluary size.
+
 ![image](figures/model.jpg)
 
 ## Training the model:

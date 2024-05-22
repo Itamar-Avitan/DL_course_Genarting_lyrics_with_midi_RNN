@@ -29,4 +29,6 @@ I implemented **Teacher Forcing** for training to model to get better answeres a
 
 **Generating songs**
 heres and example of generating song using only the melody of: **Blink 182 song all the small things**, and the first word : **War**
+
+
 ![Image](figures/war_song.png)
